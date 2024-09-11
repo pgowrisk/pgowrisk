@@ -5,7 +5,8 @@
 
 I'm ready to merge code, collaborate on projects, and discover new opportunities. Feel free to send a pull request to my inbox.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-pasumarthy/)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gowripasumarthy.com/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-pasumarthy/)  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GowriSankar0279)
 
 ## 💫 About Me
 
