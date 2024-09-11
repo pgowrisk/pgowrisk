@@ -13,7 +13,7 @@ I'm ready to merge code, collaborate on projects, and discover new opportunities
 
 **🎓**   Studying Computer Science at Stony Brook University.
 
-**💼**   Experienced Work at The Integrity Company as a Software Engineer Intern & Bajaj Finserv as a Software Engineer Intern.
+**💼**   Experienced Work as a Software Engineer Intern at The Integrity Company  & Bajaj Finserv. 
 
 **🌱**   Learning more about Fullstack Software Engineer, Systems Design and Cloud Technologies.
 
