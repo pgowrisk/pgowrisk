@@ -36,10 +36,13 @@ Other Tools: Git, Jira, Salesforce, Elastic Search, Kafka, Figma
 
 ## 💼 Professional Experience
 Research Assistant at Stony Brook University (Current)
+
 Software Engineer Intern at The Integrity Company
+
 Software Engineer Intern at Bajaj Finserv
 
 ## 🏆 Key Projects
 Farm Fresh: E-commerce application with streamlined DevOps
+
 Distributed Banking System: Scalable microservices architecture
 
