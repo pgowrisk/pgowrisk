@@ -23,17 +23,17 @@ I'm ready to merge code, collaborate on projects, and discover new opportunities
 **👥** Let's code something amazing together! 🌟
 
 ## 🛠️ Tech Stack
-Languages: Java, C++, Python, JavaScript, TypeScript, SQL
+**Languages**: Java, C++, Python, JavaScript, TypeScript, SQL
 
-Frontend: React, Angular, Vue, HTML, CSS
+**Frontend**: React, Angular, Vue, HTML, CSS
 
-Backend: Node.js, Express, Flask, Django, Spring Boot
+**Backend**: Node.js, Express, Flask, Django, Spring Boot
 
-Databases: MySQL, MongoDB, PostgreSQL, DynamoDB
+**Databases**: MySQL, MongoDB, PostgreSQL, DynamoDB
 
-Cloud & DevOps: AWS, Azure, Docker, Kubernetes, Jenkins, Terraform
+**Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins, Terraform
 
-Other Tools: Git, Jira, Salesforce, Elastic Search, Kafka, Figma
+**Other Tools**: Git, Jira, **Salesforce**, Elastic Search, Kafka, Figma
 
 ## 💼 Professional Experience
 Research Assistant at Stony Brook University (Current)
